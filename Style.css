@@ -1,0 +1,212 @@
+@charset "utf-8";
+.section_navigation_bar {
+    background-color: #FFF9D9;
+}
+.location_navigationbar {
+    margin-left: -8px;
+
+
+}
+.nav_bar_colour {
+    text-transform: uppercase;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    background-image: -webkit-linear-gradient(270deg,rgba(255,249,217,1.00) 0%,rgba(255,249,217,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,249,217,1.00) 0%,rgba(255,249,217,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,249,217,1.00) 0%,rgba(255,249,217,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,249,217,1.00) 0%,rgba(255,249,217,1.00) 100%);
+}
+.location_logorationale {
+    margin-top: 66px;
+    padding-top: 151px;
+}
+.logo_location_rational {
+    margin-top: 22px;
+    padding-top: 130px;
+}
+.background_logoRationale {
+    padding-top: 0px;
+    margin-top: -66px;
+    background-image: url(image/bg%20logo%20rationale@300x.png);
+    padding-bottom: 150px;
+}
+.poster_serise_section {
+    background-image: url(image/bg%20poster%20serise@300x.png);
+    padding-bottom: 153px;
+}
+.row_posteSeries_location {
+    padding-top: 120px;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-left: -188px;
+    margin-right: -176px;
+}
+.posterSerise_header {
+    text-align: center;
+    color: #30EC5C;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 50px;
+    font-weight: bolder;
+}
+.posterSeries_section_location {
+    padding-top: 30px;
+    margin-top: -2px;
+}
+.logoRational_header {
+    color: #E465B8;
+    text-transform: uppercase;
+    padding-top: 34px;
+    text-align: center;
+}
+.logoRational_paragarph {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    margin-top: -38px;
+    text-align: justify;
+}
+.colourTemplate_location {
+    margin-left: 165px;
+}
+.itemMerchendise_Section {
+    background-image: url(image/bg%20logo%20rationale@300x.png);
+}
+.itemMerchendise_header {
+    color: #30EC59;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 50px;
+    padding-top: 63px;
+}
+.itemPhoto {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: -100px;
+    margin-right: -100px;
+
+
+
+}
+.photoItem {
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 18px;
+
+
+}
+.photoItem_header {
+    padding-top: 18px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+.mocup_secrion {
+    background-image: url(image/bg%20poster%20serise@300x.png);
+}
+.mocup_container {
+    padding-top: 38px;
+}
+.mocup_image {
+}
+.mocup_info {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-top: 15px;
+}
+.mocup_row {
+    padding-top: 23px;
+    padding-right: 0px;
+    margin-right: -100px;
+    margin-left: -100px;
+}
+.mocup_headline {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    color: #30EC59;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 50px;
+}
+.aboutme_section {
+    background-image: url(image/bg%20logo%20rationale@300x.png);
+}
+.aboutMe_container {
+    padding-top: 36px;
+    padding-bottom: 50px;
+
+}
+.aboutMe_headline {
+    text-align: center;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 50px;
+    color: #30EC59;
+}
+.aboutMe_row {
+    padding-top: 59px;
+}
+.aboutMe_disclamer {
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    text-transform: capitalize;
+    word-spacing: 6px;
+    opacity: 0.21;
+    padding-top: 68px;
+}
+.container.location_navigationbar .navbar.navbar-expand-lg.navbar-light.bg-light.nav_bar_colour #navbarSupportedContent1 {
+    color: #000000;
+}
+.container.location_navigationbar .navbar.navbar-expand-lg.navbar-light.bg-light.nav_bar_colour #navbarSupportedContent1:hover  {
+    color: #FF0003;
+    text-decoration: underline;
+}
+
+.AboutMe_title {
+    padding-top: 30px;
+    color: #FFFFFF;
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-weight: bolder;
+    text-align: left;
+    text-transform: uppercase;
+}
+.abouMe_info {
+    color: #ECFC7C;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    text-transform: capitalize;
+}
+.aboutMe_image {
+    padding-top: 0px;
+    margin-top: 81px;
+}
+.video {
+    background-color: #62462B;
+    padding-bottom: 80px;
+}
+.video_container {
+    padding-top: 29px;
+}
+.video_row {
+}
+.video_headline {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    color: #52EC59;
+    text-transform: uppercase;
+    letter-spacing: 50px;
+    text-align: center;
+    padding-left: 237px;
+}
+.xpert_link {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 22px;
+}
